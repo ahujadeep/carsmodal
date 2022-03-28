@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #fbfbfb;
+}
+
+.checked {
+  color: #00afa0;
+}
+
+.text-fade {
+  font-size: 12px;
+  color: #6f6f6f;
+}
+
+.spacehr{
+    width: 1px;
+    height: 10px !important;
+    display: inline-block;
+}
+
+.heading{
+    font-size: 18px;
+}
